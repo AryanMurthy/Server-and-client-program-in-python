@@ -1,5 +1,5 @@
 # Server-and-client-program-in-python
-It is a simple got to server-client program implemented in python language. 
+It is a simple got to server-client program implemented in python language. The program is the basic need in messaging applications. 
 
 Instructions to execute the program:
 1. Open the command prompt and run the server.py file first.
